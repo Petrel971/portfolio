@@ -1,22 +1,44 @@
-# Portfolio — Lucas Petrelluzzi (Data Analyst)
+# Portfolio — Lucas Petrelluzzi · Data Analyst
 
-Site portfolio statique, prêt à publier sur **GitHub Pages**.
+Portfolio professionnel présentant mon profil, mes projets data et mes compétences.
+Réalisé dans le cadre du parcours **Data Analyst** (OpenClassrooms) et de ma candidature au poste de Data Analyst chef de projet.
 
-## Contenu
-- `index.html` — la page (HTML/CSS/JS autonome, aucune dépendance à installer)
-- `livrables/` — les livrables liés depuis la page (PDF + images)
-- `cv.pdf` — **à remplacer par ton vrai CV**
+### 🔗 Site en ligne : **[petrel971.github.io/portfolio](https://petrel971.github.io/portfolio/)**
 
-## Publier sur GitHub Pages (5 min)
-1. Crée un dépôt GitHub nommé `portfolio` (ou `ton-pseudo.github.io` pour l'avoir à la racine).
-2. Ajoute tous ces fichiers à la racine du dépôt (glisser-déposer dans l'interface web, ou `git push`).
-3. Dépôt → **Settings → Pages**.
-4. Source : **Deploy from a branch**, branche `main`, dossier `/ (root)` → **Save**.
-5. Attends ~1 min : ton site est en ligne sur `https://ton-pseudo.github.io/portfolio/`.
+---
 
-## À personnaliser avant de publier
-- `cv.pdf` : mets ton vrai CV.
-- Liens **email / LinkedIn / GitHub** dans le pied de page (`index.html`).
-- Le lien **Vidéo de formation** : remplace `#` par l'URL de ta vidéo (YouTube/Loom) dans la liste `livrables` du `<script>`.
-- `livrables/gantt.pdf` : remplace-le par l'export de ton Gantt Power BI si tu préfères.
+## À propos
 
+Je suis Data Analyst, diplômé OpenClassrooms et en Master **Data & AI for Business** (Mines Paris PSL × Albert School), en alternance **Business Analyst** chez Schneider Electric.
+Ce que j'aime : cadrer un besoin métier, fiabiliser la donnée et la restituer pour qu'elle serve à décider — avec une posture de conseil.
+
+## Contenu du portfolio
+
+- **12 projets data** couvrant SQL, Python, Power BI, Snowflake et dbt (de la modélisation à la data visualisation).
+- Les **livrables d'un projet complet** : analyse de besoins, cahier des charges fonctionnel, diagramme de Gantt, maquettes de dashboards, vidéo de formation et procédure de documentation.
+- Mon **profil**, mes **compétences** et mon **CV**.
+
+## Stack technique
+
+`SQL` · `Python (pandas)` · `Power BI (DAX / Power Query)` · `Snowflake` · `dbt` · `SQLite`
+Site : `HTML` · `CSS` · `JavaScript` (statique, sans dépendance), hébergé sur **GitHub Pages**.
+
+## Structure du dépôt
+
+```
+portfolio/
+├── index.html          → la page du portfolio
+├── cv.pdf              → mon CV
+├── livrables/          → les livrables liés depuis le site (PDF + visuels)
+└── README.md
+```
+
+## Contact
+
+- ✉️ lucas.petrelluzzi@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-petrelluzzi-b46444299)
+- 💻 [GitHub](https://github.com/Petrel971)
+
+---
+
+<sub>© 2026 Lucas Petrelluzzi — Portfolio de professionnel de la data.</sub>
